@@ -1,0 +1,26 @@
+{
+  "name": "mymegaverse",
+  "version": "1.0.0",
+  "description": "megaverse-challange",
+  "main": "index.js",
+  "scripts": {
+    "create-megaverse": "node index.js",
+    "clear-megaverse": "node index.js clearMegaverse=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkateshreddypala/megaverse-challange.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Venkatesh Pala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkateshreddypala/megaverse-challange/issues"
+  },
+  "homepage": "https://github.com/venkateshreddypala/megaverse-challange#readme",
+  "devDependencies": {
+    "axios": "^1.6.7"
+  }
+}
