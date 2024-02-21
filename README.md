@@ -1,2 +1,2 @@
-# megaverse-challange
-Crossmint Megaverse Challange
+# Crossmint-Megaverse-Challange
+
